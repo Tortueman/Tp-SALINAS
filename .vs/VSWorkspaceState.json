@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\config",
+    "\\src",
+    "\\src\\BlogBundle",
+    "\\src\\BlogBundle\\Entity",
+    "\\src\\BlogBundle\\Repository",
+    "\\src\\BlogBundle\\Resources",
+    "\\src\\BlogBundle\\Resources\\views",
+    "\\web"
+  ],
+  "SelectedNode": "\\src\\BlogBundle\\Resources\\views\\connexion.php",
+  "PreviewInSolutionExplorer": false
+}
